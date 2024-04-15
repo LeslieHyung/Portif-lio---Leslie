@@ -1,0 +1,34 @@
+body{
+    background-image: url(../IMG/FundoTela05.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    padding: 30px;
+}
+
+h1{
+
+    font-family: cursive;
+    font-size: 4em;
+    text-align: right;
+    margin-right: 5em;
+    margin-top: 2em;
+}
+
+ul{
+    margin-top: 2.5em;
+    margin-left: 30em;
+    font-family: cursive;
+    font-size: 30px;
+    list-style: none;
+}
+
+hr{
+    width: 40%;
+    margin-left: 53em;
+}
