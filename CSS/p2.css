@@ -1,19 +1,33 @@
+a:hover{
+    background-color: rgb(244, 207, 163);
+    padding-bottom: 0.4px;
+    padding-top: 0.4px;
+}
+
+nav{
+    font-family: cursive;
+    font-size: 25px;
+    background-color: rgba(250, 235, 215, 0.696);
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 80px;
+}
+
 body{
     background-image: url(../IMG/FundoTela02.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-nav{
-    text-align: center;
-    font-family: cursive;
-    font-size: 25px;
-    padding: 30px;
-}
-
 h1{
+    margin-top: 2em;
     text-align: center;
-    font-size: 20px;
+    font-size: 50px;
     font-family: cursive;
 }
 
@@ -22,20 +36,20 @@ hr{
 }
 
 h2{
-   font-size: 20px;
+   font-size: 30px;
    font-family: cursive;
    text-align: center;
 }
 
 p{
+    font-size: 25px;
     font-family: cursive;
     text-align: center;
-    margin-left: 12em;
-    margin-right: 12em;
+    margin-left: 23em;
+    margin-right: 23em;
 }
 
-ul{
-    font-family: cursive;
-    list-style: none;
-    text-align: center;
+.traçoh1{
+    width: 20%;
 }
+
